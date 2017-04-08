@@ -1,0 +1,5 @@
+http://beej.us/guide/bgnet/output/html/multipage/clientserver.html#datagram
+3, 5, 6
+
+g++ server server.cpp
+chmod u+x 
